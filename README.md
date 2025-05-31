@@ -3,7 +3,7 @@
 
 🎓 Toros Üniversitesi'nde Bilgisayar Programcılığı öğrencisiyim. Yazılım geliştirmeye ve yeni teknolojileri öğrenmeye büyük ilgi duyuyorum.
 
-💻 Şu anda C, C#, HTML, CSS dillerinde kendimi geliştiriyorum. Özellikle oyun programlama, web geliştirme ve algoritma mantığı üzerine çalışmalar yapıyorum.
+💻 Şu anda C, C#, HTML, CSS ve JavaScript dillerinde kendimi geliştiriyorum. Özellikle oyun programlama, web geliştirme ve algoritma mantığı üzerine çalışmalar yapıyorum.
 
 🚀 Boş zamanlarımda projeler geliştiriyor, açık kaynak dünyasını keşfediyor ve yeni şeyler denemekten keyif alıyorum.
 
